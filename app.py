@@ -10,7 +10,7 @@ from scipy import stats
 from faicons import icon_svg
 
 # --------------------------------------------
-# SET UP THE REACTIVE CONTENT MINDY CRUZ
+# SET UP THE REACTIVE CONTENT
 # --------------------------------------------
 DEQUE_SIZE = 15
 UPDATE_INTERVAL_SECS = 3
